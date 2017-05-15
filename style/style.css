@@ -5,3 +5,7 @@ div.container{
 form a {
     margin-left: 5px;
 }
+
+ul.list-group > li.list-group-item{
+    margin-bottom: 15px;
+}
